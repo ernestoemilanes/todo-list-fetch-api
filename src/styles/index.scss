@@ -11,3 +11,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+    background: #353535;
+}
+
+.todoContainer {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.todoHeader {
+    padding-bottom: 25px;
+}
+
+.todoItems {
+    padding-top: 10px;
+    font-size: 2rem;
+    font-weight: 700;
+}
